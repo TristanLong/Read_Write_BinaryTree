@@ -1,0 +1,5 @@
+﻿  Read_Write_Binary_Tree.cpp
+D:\University_STU\Nam2\HK2\CTDL_GT2\Read_Write_Tree\Read_Write_Tree\Read_Write_Binary_Tree.cpp(31,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1258)
+D:\University_STU\Nam2\HK2\CTDL_GT2\Read_Write_Tree\Read_Write_Tree\Read_Write_Binary_Tree.cpp(31,17): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1258)
+D:\University_STU\Nam2\HK2\CTDL_GT2\Read_Write_Tree\Read_Write_Tree\Read_Write_Binary_Tree.cpp(31,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1258)
+  Read_Write_Tree.vcxproj -> D:\University_STU\Nam2\HK2\CTDL_GT2\Read_Write_Tree\x64\Debug\Read_Write_Tree.exe
